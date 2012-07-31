@@ -7,6 +7,9 @@ m       = 5.0;          % Mass of leg (kg)
 m_h     = 5.0;          % Mass of body (kg)  
 g       = 9.8;          % Gravity (m/s^2)
 
+l       = a+b;          % Combined leg length
+
+
 q = [   theta1 ;
         theta2 ];
 
